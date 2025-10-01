@@ -1,2 +1,2 @@
-# Github and git
+# Github
 UNO Start - Fall 2022, Student
